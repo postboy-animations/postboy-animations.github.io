@@ -1,2 +1,2 @@
-# postboy-animations.github.io
+# POSTBOY
 Portfolio site
